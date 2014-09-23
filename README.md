@@ -13,7 +13,7 @@ One thing that had bothered me was the apparent discontinuity between getting th
 Maybe the functional style would clarify that.
 I think it did that and more.
 
-The first entry here, updnLog is the result. I had to really think about what the loopy algorithm was doing.
+The entry updnLog is the result. I had to really think about what the loopy algorithm was doing.
 It may need a short article explaining why it works beyond the comments in the script.
 
 As a check on the clarity of the algorithm, I made a tiny number of changes (mainly / -> - and 1 -> 0) to turn it into a dividing algorithm,
